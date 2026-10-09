@@ -1,6 +1,6 @@
 # ORVEXA
 
-> An AI-native knowledge layer for residential buildings — gives residents instant, cited answers to building-specific bylaws and operational rules, without calling the concierge.
+> A RAG-powered knowledge layer for residential buildings — gives residents instant, cited, grounded answers to building-specific bylaws and operational rules, without calling the concierge.
 
 ---
 
